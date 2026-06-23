@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Output files
+*.tsv
+*.csv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Mac
+.DS_Store
